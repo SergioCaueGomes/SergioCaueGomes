@@ -28,5 +28,5 @@ You can click the Preview link to take a look at your changes.
   <div>
     <a href="https://www.linkedin.com/in/s%C3%A9rgio-cau%C3%AA-gomes-bb725097/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/SergioCaueGomes/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/SergioCaueGomes/SergioCaueGomes/blob/output/github-contribution-grid-snake.svg)
   </div>
