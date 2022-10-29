@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Sergio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Sergio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sergio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt=Sergio-Java" height="30" width="40" src="[https://icongr.am/devicon/java-original.svg?size=128&color=currentColor](https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor)">
+  <img align="center" alt=Sergio-Java" height="30" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor">
   
 ##
                                                                                                                                            
