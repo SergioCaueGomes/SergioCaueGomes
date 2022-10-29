@@ -15,6 +15,7 @@ You can click the Preview link to take a look at your changes.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SergioCaueGomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioCaueGomes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+##
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Sergio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,15 +26,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="sergio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Sergio-Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919825.png">
   <img align="center" alt="Sergio-Java" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png">
-  
- 
-  
- 
 </div>
-
-
-  
-
 
 ##
                                                                                                                                            
