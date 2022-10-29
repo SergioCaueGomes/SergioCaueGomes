@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt=Sergio-Node" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png">
   <img align="center" alt=Sergio-Java" height="50" width="60" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png">
 <img align="center" alt=Sergio-Java" height="50" width="60" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png">
-
+</div>
 
 ##
                                                                                                                                            
